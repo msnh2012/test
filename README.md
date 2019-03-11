@@ -8,5 +8,5 @@ ABCW zj49..
 ABCU 12..
 ABC  49..
 BJ   40..
-BJW  
-GR   zj4..
+BJW  49..
+GRSW   zj4..
