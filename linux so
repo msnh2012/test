@@ -1,0 +1,4 @@
+解决方法：找到libopencv_开头到库的目录，
+在/usr/local/lib下面，
+在/etc/ld.so.conf.d/下面新建一个opencv.conf，
+里面写入/usr/local/lib，最后执行下sudo ldconfig -v即可。
