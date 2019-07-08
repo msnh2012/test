@@ -10,4 +10,4 @@ ABC  49..
 BJ   40..
 BJW  49..
 GRSW   zj4..
-YG   z..o49..
+YG阳光   z..o49..
