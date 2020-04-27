@@ -18,3 +18,14 @@ zs  4.... 1....
 lft通 ZJ4... 1249... 
 公jj  ZJ1...
 serv  cas...zj..419_ _
+
+
+配置:
+export PATH=/usr/local/cuda-10.0/bin${PATH:+:${PATH}}
+export LD_LIBRARY_PATH=/usr/local/cuda/lib64:${LD_LIBRARY_PATH:+:${LD_LIBRARY_PATH}}
+export LD_LIBRARY_PATH="/home/msnh/Qt5.12.7/5.12.7/gcc_64/lib:$LD_LIBRARY_PATH"
+
+export JAVA_HOME=/home/msnh/Android_Config/jdk180
+export JRE_HOME=${JAVA_HOME}/jre    
+export CLASSPATH=.:${JAVA_HOME}/lib:${JRE_HOME}/lib    
+export PATH=${JAVA_HOME}/bin:$PATH
