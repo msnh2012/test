@@ -31,5 +31,6 @@ export CLASSPATH=.:${JAVA_HOME}/lib:${JRE_HOME}/lib
 export PATH=${JAVA_HOME}/bin:$PATH
 
 ``` 
-\/\*[\s\S]*\*\/|\/\/.*           $1  
+\/\*[\s\S]*\*\/|\/\/.*           $1 删注释  
+^\s*(?=\r?$)\n                   \n 删多余的行
 ```
