@@ -2,6 +2,5 @@
 
 void main(void)
 {
-    printf("Let's do it");
-    //wwww?
+    int ffff = 0;
 }
